@@ -1,1 +1,1 @@
-# morin-project
+# Shopping-list App
