@@ -1,8 +1,8 @@
-<h1>Designs
+<h1>Designs</h1>
 
 This Assignment involved building user interfaces for the signup/homepage and user dashboard in  HTML/CSS without implementing the core functionalities.
 
-<h1>Getting started.
+<h1>Getting started</h1>
 
 Create a github repo.
 
