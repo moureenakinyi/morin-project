@@ -1,0 +1,87 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: url(abstract_0003.jpg);
+	background-size: cover;
+	font-family: sans-serif;
+}
+.title
+{
+	text-align: center;
+	padding: 50px 0 20px;
+}
+.title h1
+{
+	margin: 0;
+	padding: 0;
+	color: white;
+	text-transform: uppercase;
+	font-size: 36px;
+}
+.container
+{
+	width: 50%;
+	height: 400px;
+	background-color: rgba(0,0,0,0.5);
+	margin: 0 auto;
+	margin-top: 40px;
+	padding-top: 10px;
+	padding-left: 50px;
+	border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	color: white;
+	font-weight: bolder;
+}
+.formBox
+{
+	width: 100%;
+	padding: 80px 40px;
+	box-sizing: border-box;
+	height: white;
+}
+.formbox p
+{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color: purple;
+}
+.formBox input
+{
+	margin-bottom: 20px;
+}
+.formBox input[type="text"],
+.formBox input[type="password"]
+{
+	border: none;
+	border-bottom: 2px solid black;
+	outline: none;
+	height: 40px;
+}
+.formBox input[type="text"],
+.formBox input[type="password"]
+{
+	border-bottom: 2px solid black;
+}
+.formBox input[type="submit"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	color: white;
+	background: black;
+	cursor: pointer;
+}
+.formBox input[type="text"]: hover
+{
+	background: purple;
+}
+.formBox a 
+{
+	color: green;
+	font-size: 12px;
+	font-weight: bold;
+}
